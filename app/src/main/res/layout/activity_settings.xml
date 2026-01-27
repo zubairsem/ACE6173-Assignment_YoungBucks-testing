@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/category"
+    android:padding="16dp">
+
+    <!-- NEW Back button -->
+
+    <RadioGroup
+        android:id="@+id/rg_font_size"
+        android:layout_width="381dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_font_size_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Font size"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/rb_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:textColor="@color/white"
+            android:text="Small" />
+
+        <RadioButton
+            android:id="@+id/rb_medium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:textColor="@color/white"
+            android:text="Medium" />
+
+        <RadioButton
+            android:id="@+id/rb_large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:textColor="@color/white"
+            android:text="Large" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_back_settings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Back"
+        android:fontFamily="serif"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

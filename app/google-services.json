@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663423074354",
+    "project_id": "thynkr-69ece",
+    "storage_bucket": "thynkr-69ece.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663423074354:android:71919ddfdcfc8b46983c2b",
+        "android_client_info": {
+          "package_name": "com.example.thynkr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSa0RYlR7BoQi6_62NadFYlbQXXxbJb50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

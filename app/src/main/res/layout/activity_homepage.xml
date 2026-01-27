@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcomepage">
+
+    <!-- Button near bottom for Categories -->
+    <Button
+        android:id="@+id/btn_go_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to Categories"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="144dp"
+        android:layout_alignParentBottom="true" />
+
+    <!-- Button at very bottom for Home Notes -->
+    <Button
+        android:id="@+id/btn_go_homenote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Home Notes"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="96dp"
+        android:layout_alignParentBottom="true" />
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:layout_alignParentBottom="true"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="48dp" />
+
+</RelativeLayout>
