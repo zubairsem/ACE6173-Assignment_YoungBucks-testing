@@ -34,6 +34,9 @@ Login Page
 Register Page
 - <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7e56cb3d-fe13-4892-98b2-2bb8467533ea" />
 
+Forgot Password
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/b949e7fd-0bf2-49f0-8030-79876ba16772" />
+
 HomePage
 - <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/77ff2b80-cab2-4399-9cf5-a291d6d35301" />
 
